@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Fireworks",
+  "description": "Interactive firework display controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
